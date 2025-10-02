@@ -40,7 +40,6 @@
 <div align="center">
 
 [![Bilibili Stats](https://stats.justsong.cn/api/bilibili/?id=3493107286936399&theme=radical)](https://space.bilibili.com/3493107286936399)
-[![Luogu Stats](https://stats.justsong.cn/api/luogu/?id=766220&theme=radical)](https://www.luogu.com.cn/user/766220)
 
 </div>
 
