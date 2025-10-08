@@ -45,10 +45,11 @@
 
 ## 📫 联系我
 
-- **邮箱**: luogu_dnj@outlook.com
+- **邮箱1**: luogu_dnj@outlook.com
+- **邮箱2**: luogu.dnj@gmail.com
 - **Bilibili**: [Transparent-fish](https://space.bilibili.com/3493107286936399)
 - **luogu**: [Transparent-fish](https://www.luogu.com.cn/user/766220)
-- **Vlog**: [dnjin.github.io](https://dnjin.github.io)
+- **Blog**: [dnjin.github.io](https://dnjin.github.io)
 
 ## 💡 关于我
 
