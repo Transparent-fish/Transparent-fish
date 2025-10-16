@@ -2,7 +2,7 @@
 
 # 🐠 Hello, I'm Transparent-fish !
 
-**OIer** | **小南梁喵**
+**OIer**
 
 [![Bilibili](https://img.shields.io/badge/B站-Transparent--fish-00A1D6?style=flat&logo=bilibili)](https://space.bilibili.com/3493107286936399)
 [![Luogu](https://img.shields.io/badge/洛谷-Transparent--fish-1E90FF?style=flat)](https://www.luogu.com.cn/user/766220)
